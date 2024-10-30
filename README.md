@@ -5,7 +5,7 @@
 
 Chez **Tecpap**, une entreprise spécialisée dans la fabrication de sacs en papier kraft pour des clients comme Carrefour, McDonald's et Adidas, l'impression personnalisée est essentielle pour répondre aux exigences de chaque marque. Cependant, ce processus d'impression est sujet à des erreurs, ce qui peut entraîner des produits non conformes. Les erreurs d'impression, bien que souvent mineures, peuvent affecter la qualité perçue par le client et nécessitent une vérification minutieuse et coûteuse.
 
-![Atelier de Tecpep](tecpap.jpg)
+![Atelier de Tecpep](Tecpap.jpg)
 
 
 ### Problématique
