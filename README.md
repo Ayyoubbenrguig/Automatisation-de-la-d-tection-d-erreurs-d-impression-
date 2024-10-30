@@ -63,4 +63,3 @@ Le projet est structuré comme suit :
 
 - **Documentation de TensorFlow** : [https://www.tensorflow.org/](https://www.tensorflow.org/)
 - **Documentation d'OpenCV** : [https://opencv.org/](https://opencv.org/)
-- **Articles de référence sur la détection d'anomalies** : Fourni par Tecpap
