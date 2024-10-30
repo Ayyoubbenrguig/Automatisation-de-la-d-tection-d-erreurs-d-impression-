@@ -7,8 +7,10 @@ Chez **Tecpap**, une entreprise spécialisée dans la fabrication de sacs en pap
 
 
 
-<align="center">img src="Tecpap.jpg" alt="Atelier de tecpap" width="500"/>
 
+<p align="center">
+  <img src="Tecpap.jpg" alt="Atelier de Tecpap" width="50%"/>
+</p>
 
 
 ### Problématique
