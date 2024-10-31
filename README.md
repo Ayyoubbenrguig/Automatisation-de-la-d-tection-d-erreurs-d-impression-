@@ -1,5 +1,5 @@
 
-# Détection d'Anomalies en Impression pour Sacs en Papier Kraft - Projet de Stage
+# Détection d'Anomalies en impression pour Sacs en Papier Kraft - Projet de Stage
 
 ## Contexte du Projet
 
